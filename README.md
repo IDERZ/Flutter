@@ -1,2 +1,2 @@
-# artlab.mobile
+# my mobile
 Flutter project
