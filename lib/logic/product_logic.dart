@@ -3,7 +3,6 @@ import 'dart:convert';
 import "package:artlab/util/rest_api.dart";
 import 'package:artlab/util/preferences.dart';
 import "package:artlab/models/product.dart";
-import 'package:flutter/foundation.dart';
 
 class ProductLogic {
   
